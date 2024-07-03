@@ -1,0 +1,95 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hi",
+            "good morning",
+            "say hi world",
+            "say hello",
+            "hello world"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "IntroduccionIntent",
+          "samples": [
+            "what is Amsterdam",
+            "say something about Amsterdam",
+            "tell me about Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "LugaresIntent",
+          "samples": [
+            "places to visit in Amsterdam",
+            "tourist places in Amsterdam",
+            "best places in Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ComidaIntent",
+          "samples": [
+            "food in Amsterdam",
+            "typical dishes of Amsterdam",
+            "gastronomy of Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajeIntent",
+          "samples": [
+            "typical clothing in Amsterdam",
+            "traditional clothing of Amsterdam",
+            "clothing in Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajesIntent",
+          "samples": [
+            "famous characters of Amsterdam",
+            "important figures of Amsterdam",
+            "characters of Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "popular music in Amsterdam",
+            "music in Amsterdam",
+            "what is listened to in Amsterdam"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "curious amsterdam"
+    }
+  }
+}

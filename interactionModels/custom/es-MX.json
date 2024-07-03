@@ -1,0 +1,91 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "IntroduccionIntent",
+          "samples": [
+            "que es Amsterdam",
+            "dime algo de Amsterdam",
+            "hablame de Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "LugaresIntent",
+          "samples": [
+            "que lugares visitar en Amsterdam",
+            "lugares turísticos de Amsterdam",
+            "mejores lugares de Amsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ComidaIntent",
+          "samples": [
+            "comida en Ámsterdam",
+            "platos típicos de Amsterdam",
+            "gastronomía de Ámsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "TrajeIntent",
+          "samples": [
+            "ropa típica en Amsterdam",
+            "vestimenta tradicional de Amsterdam",
+            "ropa en Ámsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PersonajesIntent",
+          "samples": [
+            "personajes famosos de Amsterdam",
+            "figuras importantes de Amsterdam",
+            "personajes de Ámsterdam"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicaIntent",
+          "samples": [
+            "música popular en Amsterdam",
+            "música en Ámsterdam",
+            "qué se escucha en Ámsterdam"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "curiosidades amsterdam"
+    }
+  }
+}
